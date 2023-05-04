@@ -1,0 +1,2 @@
+"","status","family","pval","qval","type","gene_short_name","num_cells_expressed","perc_cells_expressed","FC","log2FC"
+"POU4F1","OK","negbinomial.size",1.98931924085515e-08,0.000300606030485622,"protein_coding","POU4F1",7,0.0843373493975904,0.0209150326797386,-5.57931593758001
